@@ -1,6 +1,6 @@
 # DeltaUtils
 
-## MIGRATED TO [https://github.com/serivesmejia/DeltaUtils](https://github.com/serivesmejia/DeltaUtils)
+## MIGRATED TO [serivesmejia/DeltaUtils](https://github.com/serivesmejia/DeltaUtils)
 
 [![](https://jitpack.io/v/DeltaRobotics-9351/DeltaUtils.svg)](https://jitpack.io/#DeltaRobotics-9351/DeltaUtils)
 [![](https://travis-ci.com/DeltaRobotics-9351/DeltaUtils.svg?branch=master)](https://travis-ci.com/DeltaRobotics-9351/DeltaUtils)
